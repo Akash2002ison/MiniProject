@@ -1,0 +1,6 @@
+C:\Users\madhura.raut\source\repos\MiniProject\Quiz.BAL\bin\Debug\Quiz.BAL.dll
+C:\Users\madhura.raut\source\repos\MiniProject\Quiz.BAL\bin\Debug\Quiz.BAL.pdb
+C:\Users\madhura.raut\source\repos\MiniProject\Quiz.BAL\obj\Debug\Quiz.BAL.csproj.AssemblyReference.cache
+C:\Users\madhura.raut\source\repos\MiniProject\Quiz.BAL\obj\Debug\Quiz.BAL.csproj.CoreCompileInputs.cache
+C:\Users\madhura.raut\source\repos\MiniProject\Quiz.BAL\obj\Debug\Quiz.BAL.dll
+C:\Users\madhura.raut\source\repos\MiniProject\Quiz.BAL\obj\Debug\Quiz.BAL.pdb
