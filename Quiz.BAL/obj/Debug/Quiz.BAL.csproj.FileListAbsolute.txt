@@ -1,0 +1,122 @@
+D:\MiniProject\Quiz.BAL\bin\Debug\Quiz.BAL.dll.config
+D:\MiniProject\Quiz.BAL\bin\Debug\Quiz.BAL.dll
+D:\MiniProject\Quiz.BAL\bin\Debug\Quiz.BAL.pdb
+D:\MiniProject\Quiz.BAL\bin\Debug\EntityFramework.dll
+D:\MiniProject\Quiz.BAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\MiniProject\Quiz.BAL\bin\Debug\Quiz.DAL.dll
+D:\MiniProject\Quiz.BAL\bin\Debug\Quiz.DAL.pdb
+D:\MiniProject\Quiz.BAL\bin\Debug\Quiz.DAL.dll.config
+D:\MiniProject\Quiz.BAL\bin\Debug\EntityFramework.xml
+D:\MiniProject\Quiz.BAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\MiniProject\Quiz.BAL\obj\Debug\Quiz.BAL.csproj.AssemblyReference.cache
+D:\MiniProject\Quiz.BAL\obj\Debug\Quiz.BAL.csproj.CoreCompileInputs.cache
+D:\MiniProject\Quiz.BAL\obj\Debug\Quiz.BAL.csproj.CopyComplete
+D:\MiniProject\Quiz.BAL\obj\Debug\Quiz.BAL.dll
+D:\MiniProject\Quiz.BAL\obj\Debug\Quiz.BAL.pdb
+D:\MiniProject\Quiz.BAL\bin\Debug\AutoMapper.dll
+D:\MiniProject\Quiz.BAL\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\MiniProject\Quiz.BAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\MiniProject\Quiz.BAL\bin\Debug\System.Web.Helpers.dll
+D:\MiniProject\Quiz.BAL\bin\Debug\System.Web.Mvc.dll
+D:\MiniProject\Quiz.BAL\bin\Debug\System.Web.Razor.dll
+D:\MiniProject\Quiz.BAL\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\MiniProject\Quiz.BAL\bin\Debug\System.Web.WebPages.dll
+D:\MiniProject\Quiz.BAL\bin\Debug\System.Web.WebPages.Razor.dll
+D:\MiniProject\Quiz.BAL\bin\Debug\Unity.Abstractions.dll
+D:\MiniProject\Quiz.BAL\bin\Debug\Unity.Container.dll
+D:\MiniProject\Quiz.BAL\bin\Debug\Unity.Mvc5.dll
+D:\MiniProject\Quiz.BAL\bin\Debug\AutoMapper.xml
+D:\MiniProject\Quiz.BAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\MiniProject\Quiz.BAL\bin\Debug\System.Web.Helpers.xml
+D:\MiniProject\Quiz.BAL\bin\Debug\System.Web.Mvc.xml
+D:\MiniProject\Quiz.BAL\bin\Debug\System.Web.Razor.xml
+D:\MiniProject\Quiz.BAL\bin\Debug\System.Web.WebPages.xml
+D:\MiniProject\Quiz.BAL\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\MiniProject\Quiz.BAL\bin\Debug\System.Web.WebPages.Razor.xml
+D:\MiniProject\Quiz.BAL\bin\Debug\Unity.Abstractions.pdb
+D:\MiniProject\Quiz.BAL\bin\Debug\Unity.Container.pdb
+D:\MiniProject\Quiz.BAL\bin\Debug\QuizViewModel.dll
+D:\MiniProject\Quiz.BAL\bin\Debug\QuizViewModel.pdb
+D:\MiniProject\Quiz.BAL\bin\Debug\QuizViewModel.dll.config
+C:\final MIni Project UserLoginSignUp\Quiz.BAL\bin\Debug\Quiz.BAL.dll.config
+C:\final MIni Project UserLoginSignUp\Quiz.BAL\bin\Debug\Quiz.BAL.dll
+C:\final MIni Project UserLoginSignUp\Quiz.BAL\bin\Debug\Quiz.BAL.pdb
+C:\final MIni Project UserLoginSignUp\Quiz.BAL\bin\Debug\AutoMapper.dll
+C:\final MIni Project UserLoginSignUp\Quiz.BAL\bin\Debug\EntityFramework.dll
+C:\final MIni Project UserLoginSignUp\Quiz.BAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\final MIni Project UserLoginSignUp\Quiz.BAL\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\final MIni Project UserLoginSignUp\Quiz.BAL\bin\Debug\Quiz.DAL.dll
+C:\final MIni Project UserLoginSignUp\Quiz.BAL\bin\Debug\QuizViewModel.dll
+C:\final MIni Project UserLoginSignUp\Quiz.BAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\final MIni Project UserLoginSignUp\Quiz.BAL\bin\Debug\System.Web.Helpers.dll
+C:\final MIni Project UserLoginSignUp\Quiz.BAL\bin\Debug\System.Web.Mvc.dll
+C:\final MIni Project UserLoginSignUp\Quiz.BAL\bin\Debug\System.Web.Razor.dll
+C:\final MIni Project UserLoginSignUp\Quiz.BAL\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\final MIni Project UserLoginSignUp\Quiz.BAL\bin\Debug\System.Web.WebPages.dll
+C:\final MIni Project UserLoginSignUp\Quiz.BAL\bin\Debug\System.Web.WebPages.Razor.dll
+C:\final MIni Project UserLoginSignUp\Quiz.BAL\bin\Debug\Unity.Abstractions.dll
+C:\final MIni Project UserLoginSignUp\Quiz.BAL\bin\Debug\Unity.Container.dll
+C:\final MIni Project UserLoginSignUp\Quiz.BAL\bin\Debug\Unity.Mvc5.dll
+C:\final MIni Project UserLoginSignUp\Quiz.BAL\bin\Debug\Quiz.DAL.pdb
+C:\final MIni Project UserLoginSignUp\Quiz.BAL\bin\Debug\Quiz.DAL.dll.config
+C:\final MIni Project UserLoginSignUp\Quiz.BAL\bin\Debug\QuizViewModel.pdb
+C:\final MIni Project UserLoginSignUp\Quiz.BAL\bin\Debug\QuizViewModel.dll.config
+C:\final MIni Project UserLoginSignUp\Quiz.BAL\bin\Debug\AutoMapper.xml
+C:\final MIni Project UserLoginSignUp\Quiz.BAL\bin\Debug\EntityFramework.xml
+C:\final MIni Project UserLoginSignUp\Quiz.BAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\final MIni Project UserLoginSignUp\Quiz.BAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\final MIni Project UserLoginSignUp\Quiz.BAL\bin\Debug\System.Web.Helpers.xml
+C:\final MIni Project UserLoginSignUp\Quiz.BAL\bin\Debug\System.Web.Mvc.xml
+C:\final MIni Project UserLoginSignUp\Quiz.BAL\bin\Debug\System.Web.Razor.xml
+C:\final MIni Project UserLoginSignUp\Quiz.BAL\bin\Debug\System.Web.WebPages.xml
+C:\final MIni Project UserLoginSignUp\Quiz.BAL\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\final MIni Project UserLoginSignUp\Quiz.BAL\bin\Debug\System.Web.WebPages.Razor.xml
+C:\final MIni Project UserLoginSignUp\Quiz.BAL\bin\Debug\Unity.Abstractions.pdb
+C:\final MIni Project UserLoginSignUp\Quiz.BAL\bin\Debug\Unity.Container.pdb
+C:\final MIni Project UserLoginSignUp\Quiz.BAL\obj\Debug\Quiz.BAL.csproj.AssemblyReference.cache
+C:\final MIni Project UserLoginSignUp\Quiz.BAL\obj\Debug\Quiz.BAL.csproj.CoreCompileInputs.cache
+C:\final MIni Project UserLoginSignUp\Quiz.BAL\obj\Debug\Quiz.BAL.csproj.CopyComplete
+C:\final MIni Project UserLoginSignUp\Quiz.BAL\obj\Debug\Quiz.BAL.dll
+C:\final MIni Project UserLoginSignUp\Quiz.BAL\obj\Debug\Quiz.BAL.pdb
+E:\new\Quiz.BAL\bin\Debug\Quiz.BAL.dll.config
+E:\new\Quiz.BAL\bin\Debug\Quiz.BAL.dll
+E:\new\Quiz.BAL\bin\Debug\Quiz.BAL.pdb
+E:\new\Quiz.BAL\bin\Debug\AutoMapper.dll
+E:\new\Quiz.BAL\bin\Debug\EntityFramework.dll
+E:\new\Quiz.BAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\new\Quiz.BAL\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\new\Quiz.BAL\bin\Debug\Newtonsoft.Json.dll
+E:\new\Quiz.BAL\bin\Debug\Quiz.DAL.dll
+E:\new\Quiz.BAL\bin\Debug\QuizViewModel.dll
+E:\new\Quiz.BAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\new\Quiz.BAL\bin\Debug\System.Web.Helpers.dll
+E:\new\Quiz.BAL\bin\Debug\System.Web.Mvc.dll
+E:\new\Quiz.BAL\bin\Debug\System.Web.Razor.dll
+E:\new\Quiz.BAL\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\new\Quiz.BAL\bin\Debug\System.Web.WebPages.dll
+E:\new\Quiz.BAL\bin\Debug\System.Web.WebPages.Razor.dll
+E:\new\Quiz.BAL\bin\Debug\Unity.Abstractions.dll
+E:\new\Quiz.BAL\bin\Debug\Unity.Container.dll
+E:\new\Quiz.BAL\bin\Debug\Unity.Mvc5.dll
+E:\new\Quiz.BAL\bin\Debug\Quiz.DAL.pdb
+E:\new\Quiz.BAL\bin\Debug\Quiz.DAL.dll.config
+E:\new\Quiz.BAL\bin\Debug\QuizViewModel.pdb
+E:\new\Quiz.BAL\bin\Debug\QuizViewModel.dll.config
+E:\new\Quiz.BAL\bin\Debug\AutoMapper.xml
+E:\new\Quiz.BAL\bin\Debug\EntityFramework.xml
+E:\new\Quiz.BAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\new\Quiz.BAL\bin\Debug\Newtonsoft.Json.xml
+E:\new\Quiz.BAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\new\Quiz.BAL\bin\Debug\System.Web.Helpers.xml
+E:\new\Quiz.BAL\bin\Debug\System.Web.Mvc.xml
+E:\new\Quiz.BAL\bin\Debug\System.Web.Razor.xml
+E:\new\Quiz.BAL\bin\Debug\System.Web.WebPages.xml
+E:\new\Quiz.BAL\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\new\Quiz.BAL\bin\Debug\System.Web.WebPages.Razor.xml
+E:\new\Quiz.BAL\bin\Debug\Unity.Abstractions.pdb
+E:\new\Quiz.BAL\bin\Debug\Unity.Container.pdb
+E:\new\Quiz.BAL\obj\Debug\Quiz.BAL.csproj.AssemblyReference.cache
+E:\new\Quiz.BAL\obj\Debug\Quiz.BAL.csproj.CoreCompileInputs.cache
+E:\new\Quiz.BAL\obj\Debug\Quiz.BAL.csproj.CopyComplete
+E:\new\Quiz.BAL\obj\Debug\Quiz.BAL.dll
+E:\new\Quiz.BAL\obj\Debug\Quiz.BAL.pdb

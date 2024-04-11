@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Quiz.DAL",
+    "\\Quiz.DAL\\Services"
   ],
-  "SelectedNode": "\\QuizGame.sln",
+  "SelectedNode": "\\Quiz.DAL\\Services\\UserService.cs",
   "PreviewInSolutionExplorer": false
 }

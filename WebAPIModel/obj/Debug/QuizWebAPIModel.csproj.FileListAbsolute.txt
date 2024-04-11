@@ -1,0 +1,18 @@
+D:\MiniProject\QuizWebAPIModel\bin\Debug\QuizWebAPIModel.dll
+D:\MiniProject\QuizWebAPIModel\bin\Debug\QuizWebAPIModel.pdb
+D:\MiniProject\QuizWebAPIModel\obj\Debug\QuizWebAPIModel.csproj.AssemblyReference.cache
+D:\MiniProject\QuizWebAPIModel\obj\Debug\QuizWebAPIModel.csproj.CoreCompileInputs.cache
+D:\MiniProject\QuizWebAPIModel\obj\Debug\QuizWebAPIModel.dll
+D:\MiniProject\QuizWebAPIModel\obj\Debug\QuizWebAPIModel.pdb
+E:\New folder\QuizWebAPIModel\bin\Debug\QuizWebAPIModel.dll
+E:\New folder\QuizWebAPIModel\bin\Debug\QuizWebAPIModel.pdb
+E:\New folder\QuizWebAPIModel\obj\Debug\QuizWebAPIModel.csproj.AssemblyReference.cache
+E:\New folder\QuizWebAPIModel\obj\Debug\QuizWebAPIModel.csproj.CoreCompileInputs.cache
+E:\New folder\QuizWebAPIModel\obj\Debug\QuizWebAPIModel.dll
+E:\New folder\QuizWebAPIModel\obj\Debug\QuizWebAPIModel.pdb
+E:\new\WebAPIModel\bin\Debug\QuizWebAPIModel.dll
+E:\new\WebAPIModel\bin\Debug\QuizWebAPIModel.pdb
+E:\new\WebAPIModel\obj\Debug\QuizWebAPIModel.csproj.AssemblyReference.cache
+E:\new\WebAPIModel\obj\Debug\QuizWebAPIModel.csproj.CoreCompileInputs.cache
+E:\new\WebAPIModel\obj\Debug\QuizWebAPIModel.dll
+E:\new\WebAPIModel\obj\Debug\QuizWebAPIModel.pdb

@@ -1,0 +1,312 @@
+D:\MiniProject\QuizGame\bin\QuizGame.dll.config
+D:\MiniProject\QuizGame\bin\QuizGame.dll
+D:\MiniProject\QuizGame\bin\QuizGame.pdb
+D:\MiniProject\QuizGame\bin\roslyn\csc.exe
+D:\MiniProject\QuizGame\bin\roslyn\csc.exe.config
+D:\MiniProject\QuizGame\bin\roslyn\csc.rsp
+D:\MiniProject\QuizGame\bin\roslyn\csi.exe
+D:\MiniProject\QuizGame\bin\roslyn\csi.exe.config
+D:\MiniProject\QuizGame\bin\roslyn\csi.rsp
+D:\MiniProject\QuizGame\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\MiniProject\QuizGame\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\MiniProject\QuizGame\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\MiniProject\QuizGame\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\MiniProject\QuizGame\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\MiniProject\QuizGame\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\MiniProject\QuizGame\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\MiniProject\QuizGame\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\MiniProject\QuizGame\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\MiniProject\QuizGame\bin\roslyn\Microsoft.Managed.Core.targets
+D:\MiniProject\QuizGame\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\MiniProject\QuizGame\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\MiniProject\QuizGame\bin\roslyn\System.AppContext.dll
+D:\MiniProject\QuizGame\bin\roslyn\System.Collections.Immutable.dll
+D:\MiniProject\QuizGame\bin\roslyn\System.Console.dll
+D:\MiniProject\QuizGame\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\MiniProject\QuizGame\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\MiniProject\QuizGame\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\MiniProject\QuizGame\bin\roslyn\System.Globalization.Calendars.dll
+D:\MiniProject\QuizGame\bin\roslyn\System.IO.Compression.dll
+D:\MiniProject\QuizGame\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\MiniProject\QuizGame\bin\roslyn\System.IO.FileSystem.dll
+D:\MiniProject\QuizGame\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\MiniProject\QuizGame\bin\roslyn\System.Net.Http.dll
+D:\MiniProject\QuizGame\bin\roslyn\System.Net.Sockets.dll
+D:\MiniProject\QuizGame\bin\roslyn\System.Reflection.Metadata.dll
+D:\MiniProject\QuizGame\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\MiniProject\QuizGame\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\MiniProject\QuizGame\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\MiniProject\QuizGame\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\MiniProject\QuizGame\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\MiniProject\QuizGame\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\MiniProject\QuizGame\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\MiniProject\QuizGame\bin\roslyn\System.ValueTuple.dll
+D:\MiniProject\QuizGame\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\MiniProject\QuizGame\bin\roslyn\System.Xml.XmlDocument.dll
+D:\MiniProject\QuizGame\bin\roslyn\System.Xml.XPath.dll
+D:\MiniProject\QuizGame\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\MiniProject\QuizGame\bin\roslyn\vbc.exe
+D:\MiniProject\QuizGame\bin\roslyn\vbc.exe.config
+D:\MiniProject\QuizGame\bin\roslyn\vbc.rsp
+D:\MiniProject\QuizGame\bin\roslyn\VBCSCompiler.exe
+D:\MiniProject\QuizGame\bin\roslyn\VBCSCompiler.exe.config
+D:\MiniProject\QuizGame\bin\Antlr3.Runtime.dll
+D:\MiniProject\QuizGame\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\MiniProject\QuizGame\bin\Microsoft.Web.Infrastructure.dll
+D:\MiniProject\QuizGame\bin\Newtonsoft.Json.dll
+D:\MiniProject\QuizGame\bin\QuizViewModel.dll
+D:\MiniProject\QuizGame\bin\System.Web.Helpers.dll
+D:\MiniProject\QuizGame\bin\System.Web.Mvc.dll
+D:\MiniProject\QuizGame\bin\System.Web.Optimization.dll
+D:\MiniProject\QuizGame\bin\System.Web.Razor.dll
+D:\MiniProject\QuizGame\bin\System.Web.WebPages.Deployment.dll
+D:\MiniProject\QuizGame\bin\System.Web.WebPages.dll
+D:\MiniProject\QuizGame\bin\System.Web.WebPages.Razor.dll
+D:\MiniProject\QuizGame\bin\WebGrease.dll
+D:\MiniProject\QuizGame\bin\QuizViewModel.pdb
+D:\MiniProject\QuizGame\bin\System.Web.Helpers.xml
+D:\MiniProject\QuizGame\bin\System.Web.Mvc.xml
+D:\MiniProject\QuizGame\bin\System.Web.Optimization.xml
+D:\MiniProject\QuizGame\bin\System.Web.Razor.xml
+D:\MiniProject\QuizGame\bin\System.Web.WebPages.xml
+D:\MiniProject\QuizGame\bin\System.Web.WebPages.Deployment.xml
+D:\MiniProject\QuizGame\bin\System.Web.WebPages.Razor.xml
+D:\MiniProject\QuizGame\bin\Newtonsoft.Json.xml
+D:\MiniProject\QuizGame\bin\Antlr3.Runtime.pdb
+D:\MiniProject\QuizGame\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\MiniProject\QuizGame\obj\Debug\QuizGame.csproj.AssemblyReference.cache
+D:\MiniProject\QuizGame\obj\Debug\QuizGame.csproj.CoreCompileInputs.cache
+D:\MiniProject\QuizGame\obj\Debug\QuizGame.csproj.CopyComplete
+D:\MiniProject\QuizGame\obj\Debug\QuizGame.dll
+D:\MiniProject\QuizGame\obj\Debug\QuizGame.pdb
+D:\MiniProject\QuizGame\bin\EntityFramework.dll
+D:\MiniProject\QuizGame\bin\EntityFramework.SqlServer.dll
+D:\MiniProject\QuizGame\bin\Quiz.DAL.dll
+D:\MiniProject\QuizGame\bin\Quiz.DAL.pdb
+D:\MiniProject\QuizGame\bin\Quiz.DAL.dll.config
+D:\MiniProject\QuizGame\bin\QuizViewModel.dll.config
+D:\MiniProject\QuizGame\bin\EntityFramework.xml
+D:\MiniProject\QuizGame\bin\EntityFramework.SqlServer.xml
+D:\MiniProject\QuizGame\bin\Quiz.BAL.dll
+D:\MiniProject\QuizGame\bin\Quiz.BAL.pdb
+D:\MiniProject\QuizGame\bin\Quiz.BAL.dll.config
+D:\MiniProject\QuizGame\bin\AutoMapper.dll
+D:\MiniProject\QuizGame\bin\Quiz.ConfigurationManager.dll
+D:\MiniProject\QuizGame\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\MiniProject\QuizGame\bin\Unity.Abstractions.dll
+D:\MiniProject\QuizGame\bin\Unity.Container.dll
+D:\MiniProject\QuizGame\bin\Unity.Mvc5.dll
+D:\MiniProject\QuizGame\bin\Quiz.ConfigurationManager.pdb
+D:\MiniProject\QuizGame\bin\Quiz.ConfigurationManager.dll.config
+D:\MiniProject\QuizGame\bin\AutoMapper.xml
+D:\MiniProject\QuizGame\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\MiniProject\QuizGame\bin\Unity.Abstractions.pdb
+D:\MiniProject\QuizGame\bin\Unity.Container.pdb
+C:\final MIni Project UserLoginSignUp\QuizGame\bin\QuizGame.dll.config
+C:\final MIni Project UserLoginSignUp\QuizGame\bin\QuizGame.dll
+C:\final MIni Project UserLoginSignUp\QuizGame\bin\QuizGame.pdb
+C:\final MIni Project UserLoginSignUp\QuizGame\bin\roslyn\csc.exe
+C:\final MIni Project UserLoginSignUp\QuizGame\bin\roslyn\csc.exe.config
+C:\final MIni Project UserLoginSignUp\QuizGame\bin\roslyn\csc.rsp
+C:\final MIni Project UserLoginSignUp\QuizGame\bin\roslyn\csi.exe
+C:\final MIni Project UserLoginSignUp\QuizGame\bin\roslyn\csi.exe.config
+C:\final MIni Project UserLoginSignUp\QuizGame\bin\roslyn\csi.rsp
+C:\final MIni Project UserLoginSignUp\QuizGame\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\final MIni Project UserLoginSignUp\QuizGame\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\final MIni Project UserLoginSignUp\QuizGame\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\final MIni Project UserLoginSignUp\QuizGame\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\final MIni Project UserLoginSignUp\QuizGame\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\final MIni Project UserLoginSignUp\QuizGame\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\final MIni Project UserLoginSignUp\QuizGame\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\final MIni Project UserLoginSignUp\QuizGame\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\final MIni Project UserLoginSignUp\QuizGame\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\final MIni Project UserLoginSignUp\QuizGame\bin\roslyn\Microsoft.Managed.Core.targets
+C:\final MIni Project UserLoginSignUp\QuizGame\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\final MIni Project UserLoginSignUp\QuizGame\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\final MIni Project UserLoginSignUp\QuizGame\bin\roslyn\System.AppContext.dll
+C:\final MIni Project UserLoginSignUp\QuizGame\bin\roslyn\System.Collections.Immutable.dll
+C:\final MIni Project UserLoginSignUp\QuizGame\bin\roslyn\System.Console.dll
+C:\final MIni Project UserLoginSignUp\QuizGame\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\final MIni Project UserLoginSignUp\QuizGame\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\final MIni Project UserLoginSignUp\QuizGame\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\final MIni Project UserLoginSignUp\QuizGame\bin\roslyn\System.Globalization.Calendars.dll
+C:\final MIni Project UserLoginSignUp\QuizGame\bin\roslyn\System.IO.Compression.dll
+C:\final MIni Project UserLoginSignUp\QuizGame\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\final MIni Project UserLoginSignUp\QuizGame\bin\roslyn\System.IO.FileSystem.dll
+C:\final MIni Project UserLoginSignUp\QuizGame\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\final MIni Project UserLoginSignUp\QuizGame\bin\roslyn\System.Net.Http.dll
+C:\final MIni Project UserLoginSignUp\QuizGame\bin\roslyn\System.Net.Sockets.dll
+C:\final MIni Project UserLoginSignUp\QuizGame\bin\roslyn\System.Reflection.Metadata.dll
+C:\final MIni Project UserLoginSignUp\QuizGame\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\final MIni Project UserLoginSignUp\QuizGame\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\final MIni Project UserLoginSignUp\QuizGame\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\final MIni Project UserLoginSignUp\QuizGame\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\final MIni Project UserLoginSignUp\QuizGame\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\final MIni Project UserLoginSignUp\QuizGame\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\final MIni Project UserLoginSignUp\QuizGame\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\final MIni Project UserLoginSignUp\QuizGame\bin\roslyn\System.ValueTuple.dll
+C:\final MIni Project UserLoginSignUp\QuizGame\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\final MIni Project UserLoginSignUp\QuizGame\bin\roslyn\System.Xml.XmlDocument.dll
+C:\final MIni Project UserLoginSignUp\QuizGame\bin\roslyn\System.Xml.XPath.dll
+C:\final MIni Project UserLoginSignUp\QuizGame\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\final MIni Project UserLoginSignUp\QuizGame\bin\roslyn\vbc.exe
+C:\final MIni Project UserLoginSignUp\QuizGame\bin\roslyn\vbc.exe.config
+C:\final MIni Project UserLoginSignUp\QuizGame\bin\roslyn\vbc.rsp
+C:\final MIni Project UserLoginSignUp\QuizGame\bin\roslyn\VBCSCompiler.exe
+C:\final MIni Project UserLoginSignUp\QuizGame\bin\roslyn\VBCSCompiler.exe.config
+C:\final MIni Project UserLoginSignUp\QuizGame\bin\Antlr3.Runtime.dll
+C:\final MIni Project UserLoginSignUp\QuizGame\bin\AutoMapper.dll
+C:\final MIni Project UserLoginSignUp\QuizGame\bin\EntityFramework.dll
+C:\final MIni Project UserLoginSignUp\QuizGame\bin\EntityFramework.SqlServer.dll
+C:\final MIni Project UserLoginSignUp\QuizGame\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\final MIni Project UserLoginSignUp\QuizGame\bin\Microsoft.Web.Infrastructure.dll
+C:\final MIni Project UserLoginSignUp\QuizGame\bin\Newtonsoft.Json.dll
+C:\final MIni Project UserLoginSignUp\QuizGame\bin\Quiz.BAL.dll
+C:\final MIni Project UserLoginSignUp\QuizGame\bin\Quiz.ConfigurationManager.dll
+C:\final MIni Project UserLoginSignUp\QuizGame\bin\Quiz.DAL.dll
+C:\final MIni Project UserLoginSignUp\QuizGame\bin\QuizViewModel.dll
+C:\final MIni Project UserLoginSignUp\QuizGame\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\final MIni Project UserLoginSignUp\QuizGame\bin\System.Web.Helpers.dll
+C:\final MIni Project UserLoginSignUp\QuizGame\bin\System.Web.Mvc.dll
+C:\final MIni Project UserLoginSignUp\QuizGame\bin\System.Web.Optimization.dll
+C:\final MIni Project UserLoginSignUp\QuizGame\bin\System.Web.Razor.dll
+C:\final MIni Project UserLoginSignUp\QuizGame\bin\System.Web.WebPages.Deployment.dll
+C:\final MIni Project UserLoginSignUp\QuizGame\bin\System.Web.WebPages.dll
+C:\final MIni Project UserLoginSignUp\QuizGame\bin\System.Web.WebPages.Razor.dll
+C:\final MIni Project UserLoginSignUp\QuizGame\bin\Unity.Abstractions.dll
+C:\final MIni Project UserLoginSignUp\QuizGame\bin\Unity.Container.dll
+C:\final MIni Project UserLoginSignUp\QuizGame\bin\Unity.Mvc5.dll
+C:\final MIni Project UserLoginSignUp\QuizGame\bin\WebGrease.dll
+C:\final MIni Project UserLoginSignUp\QuizGame\bin\Quiz.BAL.pdb
+C:\final MIni Project UserLoginSignUp\QuizGame\bin\Quiz.BAL.dll.config
+C:\final MIni Project UserLoginSignUp\QuizGame\bin\Quiz.ConfigurationManager.pdb
+C:\final MIni Project UserLoginSignUp\QuizGame\bin\Quiz.ConfigurationManager.dll.config
+C:\final MIni Project UserLoginSignUp\QuizGame\bin\Quiz.DAL.pdb
+C:\final MIni Project UserLoginSignUp\QuizGame\bin\Quiz.DAL.dll.config
+C:\final MIni Project UserLoginSignUp\QuizGame\bin\QuizViewModel.pdb
+C:\final MIni Project UserLoginSignUp\QuizGame\bin\QuizViewModel.dll.config
+C:\final MIni Project UserLoginSignUp\QuizGame\bin\AutoMapper.xml
+C:\final MIni Project UserLoginSignUp\QuizGame\bin\EntityFramework.xml
+C:\final MIni Project UserLoginSignUp\QuizGame\bin\EntityFramework.SqlServer.xml
+C:\final MIni Project UserLoginSignUp\QuizGame\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\final MIni Project UserLoginSignUp\QuizGame\bin\System.Web.Helpers.xml
+C:\final MIni Project UserLoginSignUp\QuizGame\bin\System.Web.Mvc.xml
+C:\final MIni Project UserLoginSignUp\QuizGame\bin\System.Web.Optimization.xml
+C:\final MIni Project UserLoginSignUp\QuizGame\bin\System.Web.Razor.xml
+C:\final MIni Project UserLoginSignUp\QuizGame\bin\System.Web.WebPages.xml
+C:\final MIni Project UserLoginSignUp\QuizGame\bin\System.Web.WebPages.Deployment.xml
+C:\final MIni Project UserLoginSignUp\QuizGame\bin\System.Web.WebPages.Razor.xml
+C:\final MIni Project UserLoginSignUp\QuizGame\bin\Newtonsoft.Json.xml
+C:\final MIni Project UserLoginSignUp\QuizGame\bin\Unity.Abstractions.pdb
+C:\final MIni Project UserLoginSignUp\QuizGame\bin\Unity.Container.pdb
+C:\final MIni Project UserLoginSignUp\QuizGame\bin\Antlr3.Runtime.pdb
+C:\final MIni Project UserLoginSignUp\QuizGame\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\final MIni Project UserLoginSignUp\QuizGame\obj\Debug\QuizGame.csproj.AssemblyReference.cache
+C:\final MIni Project UserLoginSignUp\QuizGame\obj\Debug\QuizGame.csproj.CoreCompileInputs.cache
+C:\final MIni Project UserLoginSignUp\QuizGame\obj\Debug\QuizGame.csproj.CopyComplete
+C:\final MIni Project UserLoginSignUp\QuizGame\obj\Debug\QuizGame.dll
+C:\final MIni Project UserLoginSignUp\QuizGame\obj\Debug\QuizGame.pdb
+E:\new\QuizGame\bin\QuizGame.dll.config
+E:\new\QuizGame\bin\QuizGame.dll
+E:\new\QuizGame\bin\QuizGame.pdb
+E:\new\QuizGame\bin\roslyn\csc.exe
+E:\new\QuizGame\bin\roslyn\csc.exe.config
+E:\new\QuizGame\bin\roslyn\csc.rsp
+E:\new\QuizGame\bin\roslyn\csi.exe
+E:\new\QuizGame\bin\roslyn\csi.exe.config
+E:\new\QuizGame\bin\roslyn\csi.rsp
+E:\new\QuizGame\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\new\QuizGame\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\new\QuizGame\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\new\QuizGame\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\new\QuizGame\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\new\QuizGame\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\new\QuizGame\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\new\QuizGame\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\new\QuizGame\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\new\QuizGame\bin\roslyn\Microsoft.Managed.Core.targets
+E:\new\QuizGame\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\new\QuizGame\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\new\QuizGame\bin\roslyn\System.AppContext.dll
+E:\new\QuizGame\bin\roslyn\System.Collections.Immutable.dll
+E:\new\QuizGame\bin\roslyn\System.Console.dll
+E:\new\QuizGame\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\new\QuizGame\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\new\QuizGame\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\new\QuizGame\bin\roslyn\System.Globalization.Calendars.dll
+E:\new\QuizGame\bin\roslyn\System.IO.Compression.dll
+E:\new\QuizGame\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\new\QuizGame\bin\roslyn\System.IO.FileSystem.dll
+E:\new\QuizGame\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\new\QuizGame\bin\roslyn\System.Net.Http.dll
+E:\new\QuizGame\bin\roslyn\System.Net.Sockets.dll
+E:\new\QuizGame\bin\roslyn\System.Reflection.Metadata.dll
+E:\new\QuizGame\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\new\QuizGame\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\new\QuizGame\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\new\QuizGame\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\new\QuizGame\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\new\QuizGame\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\new\QuizGame\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\new\QuizGame\bin\roslyn\System.ValueTuple.dll
+E:\new\QuizGame\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\new\QuizGame\bin\roslyn\System.Xml.XmlDocument.dll
+E:\new\QuizGame\bin\roslyn\System.Xml.XPath.dll
+E:\new\QuizGame\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\new\QuizGame\bin\roslyn\vbc.exe
+E:\new\QuizGame\bin\roslyn\vbc.exe.config
+E:\new\QuizGame\bin\roslyn\vbc.rsp
+E:\new\QuizGame\bin\roslyn\VBCSCompiler.exe
+E:\new\QuizGame\bin\roslyn\VBCSCompiler.exe.config
+E:\new\QuizGame\bin\Antlr3.Runtime.dll
+E:\new\QuizGame\bin\AutoMapper.dll
+E:\new\QuizGame\bin\EntityFramework.dll
+E:\new\QuizGame\bin\EntityFramework.SqlServer.dll
+E:\new\QuizGame\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\new\QuizGame\bin\Microsoft.Web.Infrastructure.dll
+E:\new\QuizGame\bin\Newtonsoft.Json.dll
+E:\new\QuizGame\bin\Quiz.BAL.dll
+E:\new\QuizGame\bin\Quiz.ConfigurationManager.dll
+E:\new\QuizGame\bin\Quiz.DAL.dll
+E:\new\QuizGame\bin\QuizViewModel.dll
+E:\new\QuizGame\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\new\QuizGame\bin\System.Web.Helpers.dll
+E:\new\QuizGame\bin\System.Web.Mvc.dll
+E:\new\QuizGame\bin\System.Web.Optimization.dll
+E:\new\QuizGame\bin\System.Web.Razor.dll
+E:\new\QuizGame\bin\System.Web.WebPages.Deployment.dll
+E:\new\QuizGame\bin\System.Web.WebPages.dll
+E:\new\QuizGame\bin\System.Web.WebPages.Razor.dll
+E:\new\QuizGame\bin\Unity.Abstractions.dll
+E:\new\QuizGame\bin\Unity.Container.dll
+E:\new\QuizGame\bin\Unity.Mvc5.dll
+E:\new\QuizGame\bin\WebGrease.dll
+E:\new\QuizGame\bin\Quiz.BAL.pdb
+E:\new\QuizGame\bin\Quiz.BAL.dll.config
+E:\new\QuizGame\bin\Quiz.ConfigurationManager.pdb
+E:\new\QuizGame\bin\Quiz.ConfigurationManager.dll.config
+E:\new\QuizGame\bin\Quiz.DAL.pdb
+E:\new\QuizGame\bin\Quiz.DAL.dll.config
+E:\new\QuizGame\bin\QuizViewModel.pdb
+E:\new\QuizGame\bin\QuizViewModel.dll.config
+E:\new\QuizGame\bin\AutoMapper.xml
+E:\new\QuizGame\bin\EntityFramework.xml
+E:\new\QuizGame\bin\EntityFramework.SqlServer.xml
+E:\new\QuizGame\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\new\QuizGame\bin\System.Web.Helpers.xml
+E:\new\QuizGame\bin\System.Web.Mvc.xml
+E:\new\QuizGame\bin\System.Web.Optimization.xml
+E:\new\QuizGame\bin\System.Web.Razor.xml
+E:\new\QuizGame\bin\System.Web.WebPages.xml
+E:\new\QuizGame\bin\System.Web.WebPages.Deployment.xml
+E:\new\QuizGame\bin\System.Web.WebPages.Razor.xml
+E:\new\QuizGame\bin\Newtonsoft.Json.xml
+E:\new\QuizGame\bin\Unity.Abstractions.pdb
+E:\new\QuizGame\bin\Unity.Container.pdb
+E:\new\QuizGame\bin\Antlr3.Runtime.pdb
+E:\new\QuizGame\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\new\QuizGame\obj\Debug\QuizGame.csproj.AssemblyReference.cache
+E:\new\QuizGame\obj\Debug\QuizGame.csproj.CoreCompileInputs.cache
+E:\new\QuizGame\obj\Debug\QuizGame.csproj.CopyComplete
+E:\new\QuizGame\obj\Debug\QuizGame.dll
+E:\new\QuizGame\obj\Debug\QuizGame.pdb
